@@ -19,5 +19,3 @@ cal.add(3)
 cal.add(4)
 
 print(cal.value)
-
-
